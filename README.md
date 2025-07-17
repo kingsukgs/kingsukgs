@@ -29,7 +29,9 @@
 - Actuary Sciences
 
 📫 **Reach me at:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile) 
+[![X]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AX_logo.jpg&psig=AOvVaw1VnRUiaVnoGL09DN6vVEC6&ust=1752826566861000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiv9_i5w44DFQAAAAAdAAAAABAE))]([https://www.linkedin.com/in/your-profile](https://x.com/kingsukgs)) 
+
 ✉️ kingsukgs@gmail.com
 
 ---
