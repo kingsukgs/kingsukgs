@@ -37,3 +37,12 @@
 
 ---
 
+### 💻 Skills & Tools
+
+- **Languages:** Python, R, C, Java (basic), HTML/CSS
+- **Libraries/Frameworks:** Pandas, NumPy, SciPy, scikit-learn, matplotlib, seaborn, BeautifulSoup, TensorFlow
+- **Visualization Tools:** Tableau, Power BI, Excel
+- **Data Science & AI:** Regression, Clustering, Classification, Decision Tree, SVM, Web Scraping, Deep Learning (basic)
+- **Platforms:** Google Colab, Jupyter, GitHub, Weka, RStudio
+- **Web & Tech:** Wix Studio, Canva
+
