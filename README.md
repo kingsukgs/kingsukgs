@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kingsuk Ghosh</h1>
-<h3 align="center">A passionate Data Science & AI Enthusiast from India</h3>
+<h3 align="center">A passionate Data Science & AI Enthusiast from Kolkata</h3>
 
 ---
 
@@ -11,29 +11,26 @@
 - Data Science & Visualization
 - Machine Learning & AI
 - Real-World Predictive Analysis
-- Web Development Projects (Wix Studio & Frontend Tech)
+- Web Design 
 
 🧠 **Skills:**
-- Programming: Python, R, SQL, Java (basic)
-- ML Libraries: scikit-learn, pandas, NumPy, matplotlib
-- Tools: Tableau, Excel, Google Colab, Power BI
-- Others: Web Scraping, Git & GitHub, Web3.js
+- Programming: Python, R, C, Java (basic)
+- ML Libraries: scikit-learn, pandas, NumPy, SciPy, matplotlib, Seaborn, TensorFlow
+- Tools: Tableau, Power BI, Excel, PowerPoint, Word, Google Colab
+- Others: Canva, Wix Studio, AutoCad
 
 📊 **Recent Projects:**
-- 🔍 E-commerce Customer Behavior Dashboard (Tableau + Python)
-- 🚇 Kolkata Metro Route Expansion Feasibility (Geo + ML)
-- 🤖 AI Text Simplifier App using Google Colab
+- 🔍 4-Level Data Analytics of E-commerce Consumer Behavior (ML + Tableau)
+- 🤖 AI Text Simplifier App
 
 🌱 **Learning Goals:**
 - Deep Learning & Reinforcement Learning
 - Advanced Data Engineering
-- Full-stack Web Development
+- Actuary Sciences
 
 📫 **Reach me at:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-✉️ kingsukghosh@example.com (update this)
+✉️ kingsukgs@gmail.com
 
 ---
-
-⚡ *Fun Fact:* I use code to solve real-life problems — and I love data like Bengalis love sweets! 🍬
 
