@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kingsuk Ghosh</h1>
+<h3 align="center">A passionate Data Science & AI Enthusiast from India</h3>
 
-<!--
-**kingsukgs/kingsukgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 **Current Education:**
+- B.Tech in Computer Science Engineering (2024–2028) @ NSEC  
+- AI & Data Science Certification @ Jadavpur University (2024–2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Interests:**
+- Data Science & Visualization
+- Machine Learning & AI
+- Real-World Predictive Analysis
+- Web Development Projects (Wix Studio & Frontend Tech)
+
+🧠 **Skills:**
+- Programming: Python, R, SQL, Java (basic)
+- ML Libraries: scikit-learn, pandas, NumPy, matplotlib
+- Tools: Tableau, Excel, Google Colab, Power BI
+- Others: Web Scraping, Git & GitHub, Web3.js
+
+📊 **Recent Projects:**
+- 🔍 E-commerce Customer Behavior Dashboard (Tableau + Python)
+- 🚇 Kolkata Metro Route Expansion Feasibility (Geo + ML)
+- 🤖 AI Text Simplifier App using Google Colab
+
+🌱 **Learning Goals:**
+- Deep Learning & Reinforcement Learning
+- Advanced Data Engineering
+- Full-stack Web Development
+
+📫 **Reach me at:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+✉️ kingsukghosh@example.com (update this)
+
+---
+
+⚡ *Fun Fact:* I use code to solve real-life problems — and I love data like Bengalis love sweets! 🍬
+
