@@ -30,7 +30,7 @@
 
 📫 **Reach me at:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kingsuk-ghosh-myprofile/)
-[!(https://img.shields.io/badge/X-blue?logo=x)](https://x.com/kingsukgs)
+[![X](https://img.shields.io/badge/X-blue?logo=x)](https://x.com/kingsukgs)
 ✉️ kingsukgs@gmail.com
 
 ---
