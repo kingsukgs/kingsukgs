@@ -11,7 +11,7 @@
 - Data Science & Visualization
 - Machine Learning & AI
 - Real-World Predictive Analysis
-- Web Design 
+- Web Design, Interior Design
 
 🧠 **Skills:**
 - Programming: Python, R, C, Java (basic)
@@ -30,7 +30,9 @@
 
 📫 **Reach me at:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kingsuk-ghosh-myprofile/)
-[![X](https://img.shields.io/badge/X-blue?logo=x)](https://x.com/kingsukgs)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-005F9E?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kingsuk.ghosh/vizzes)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://x.com/kingsukgs)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kingsukofficial/)  
 ✉️ kingsukgs@gmail.com
 
 ---
