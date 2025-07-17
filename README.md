@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kingsuk Ghosh</h1>
+<h1 align="center">নমস্কার 👋, I'm Kingsuk Ghosh</h1>
 <h3 align="center">A passionate Data Science & AI Enthusiast from Kolkata</h3>
 
 ---
